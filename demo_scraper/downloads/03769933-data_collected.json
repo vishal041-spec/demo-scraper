@@ -1,0 +1,52 @@
+{
+    "files_count": 0,
+    "result": {
+        "matricula": "03769933",
+        "pagamentos_efetuados": [
+            {
+                "agencia": "DEODORO - CTBA",
+                "banco": "SANTANDER",
+                "pagamento": "10/07/2020",
+                "referencia": "06/2020",
+                "valor": "3.373,99",
+                "vencimento": "10/07/2020"
+            },
+            {
+                "agencia": "DEODORO - CTBA",
+                "banco": "SANTANDER",
+                "pagamento": "10/08/2020",
+                "referencia": "07/2020",
+                "valor": "1.053,14",
+                "vencimento": "10/08/2020"
+            },
+            {
+                "agencia": "DEODORO - CTBA",
+                "banco": "SANTANDER",
+                "pagamento": "10/09/2020",
+                "referencia": "08/2020",
+                "valor": "254,02",
+                "vencimento": "10/09/2020"
+            },
+            {
+                "agencia": "DEODORO - CTBA",
+                "banco": "SANTANDER",
+                "pagamento": "13/10/2020",
+                "referencia": "09/2020",
+                "valor": "141,75",
+                "vencimento": "10/10/2020"
+            },
+            {
+                "agencia": "DEODORO - CTBA",
+                "banco": "SANTANDER",
+                "pagamento": "10/11/2020",
+                "referencia": "10/2020",
+                "valor": "138,53",
+                "vencimento": "10/11/2020"
+            }
+        ],
+        "status": "SEM DEBITO PENDENTE"
+    },
+    "scrape_id": "9fd41f7c-b5e0-4e79-80a8-23386857a310",
+    "scraper_name": "casan",
+    "screenshots_count": 0
+}
